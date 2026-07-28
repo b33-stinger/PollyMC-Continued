@@ -10,6 +10,7 @@
 - Cancel button not working in Yggdrasil login dialog
 - Yggdrasil accounts not fetching player skins
 - Old PollyMC accounts with missing auth server URL now show clear error
+- PollyMC ↔ PollyMC-Continued account compatibility (reads both `authlibInjectorUrl` and `auth-server-url`, writes `authlibInjectorUrl`)
 
 ## v9.0.10
 
